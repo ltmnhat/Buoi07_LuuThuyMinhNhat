@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai1_MinhNhat", "Bai1_MinhNhat\Bai1_MinhNhat.csproj", "{55DD9B6B-E011-4A5E-9E8E-1391BF47BBAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai2_MinhNhat", "Bai2_MinhNhat\Bai2_MinhNhat.csproj", "{4A09A71C-34C3-43CC-9BFB-68FAF900B068}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55DD9B6B-E011-4A5E-9E8E-1391BF47BBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55DD9B6B-E011-4A5E-9E8E-1391BF47BBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55DD9B6B-E011-4A5E-9E8E-1391BF47BBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A09A71C-34C3-43CC-9BFB-68FAF900B068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A09A71C-34C3-43CC-9BFB-68FAF900B068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A09A71C-34C3-43CC-9BFB-68FAF900B068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A09A71C-34C3-43CC-9BFB-68FAF900B068}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
