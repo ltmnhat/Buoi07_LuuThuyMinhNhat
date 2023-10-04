@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\bin\Debug\Bai3 _MinhNhat.exe.config
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\bin\Debug\Bai3 _MinhNhat.exe
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\bin\Debug\Bai3 _MinhNhat.pdb
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\obj\Debug\Bai3 _MinhNhat.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\obj\Debug\Bai3__MinhNhat.Form1.resources
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\obj\Debug\Bai3__MinhNhat.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\obj\Debug\Bai3 _MinhNhat.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\obj\Debug\Bai3 _MinhNhat.exe
+E:\LuuDuLieuSinhVien\2033210404_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Buoi07_LuuThuyMinhNhat\Bai3 _MinhNhat\obj\Debug\Bai3 _MinhNhat.pdb
